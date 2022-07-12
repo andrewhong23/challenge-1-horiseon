@@ -1,4 +1,5 @@
 # challenge-1-horiseon
+
 ## Description
 
 This Module 1 Challenge required me to edit the HTML code to a more semantic HTML code.  using a more semantic HTML code will help with organization, as well as provide a structure on how this website was built. Editing the code came editing the CSS as well to match the new HTML code and edit how the content will appear on the web page.  
@@ -12,3 +13,9 @@ This Module 1 Challenge required me to edit the HTML code to a more semantic HTM
 
 -Created a new title to the page to give a more desciptive and meaningful title. 
 
+#### Link and screenshot to README:
+
+[https://andrewhong23.github.io/challenge-1-horiseon/](https://andrewhong23.github.io/challenge-1-horiseon/)
+
+
+![alt screenshot of website](./assets/images/horiseon-screenshot.png) 
